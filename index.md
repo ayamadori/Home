@@ -3,7 +3,7 @@ I may post about development of mobile application occasionally ;-)
 
 ## Software
 - Windows 10 Application (Open the Store app)  
-[http://tinyurl.com/ayamadori](http://tinyurl.com/ayamadori)
+[ms-windows-store://publisher/?name=ayamadori](http://tinyurl.com/ayamadori)  
 - Mobile Java Application  
 [http://java.oms.apps.bemobi.com/en_us/?vendor_id=127277](http://java.oms.apps.bemobi.com/en_us/?vendor_id=127277)
 
