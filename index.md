@@ -17,4 +17,5 @@ I may post about development of mobile application occasionally ;-)
 
 ## History
 - 2018/06/17
-  * Moved from Google Sites to GitHub
+  * Move from Google Sites to GitHub
+  * Remove old contents
