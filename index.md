@@ -1,5 +1,3 @@
-# Nothing to release.
-
 Some contents are written in Japanese text.  
 I may post about development of mobile application occasionally ;-)
 
