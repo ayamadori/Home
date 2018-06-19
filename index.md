@@ -16,6 +16,6 @@ I may post about development of mobile application occasionally ;-)
 [https://github.com/ayamadori](https://github.com/ayamadori)
 
 ## History
-- 2018/06/19
+- 2018/06/17
   * Move from Google Sites to GitHub
   * Remove old contents
