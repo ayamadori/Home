@@ -16,5 +16,5 @@ I may post about development of mobile application occasionally ;-)
 
 ## History
 - 2018/06/17
-  * Move from Google Sites [(https://sites.google.com/site/ayamadori)](https://sites.google.com/site/ayamadori) to GitHub
+  * Move from Google Sites ([https://sites.google.com/site/ayamadori](https://sites.google.com/site/ayamadori)) to GitHub
   * Remove old contents
