@@ -10,7 +10,7 @@ I may post about development of mobile application occasionally ;-)
 
 ## Software
 - Windows 10 Application  
-[https://www.microsoft.com/en-us/search/shop/apps?q=ayamadori&Price=0.01To5](https://www.microsoft.com/en-us/search/shop/apps?q=ayamadori)
+[https://www.microsoft.com/en-us/search/shop/apps?q=ayamadori](https://www.microsoft.com/en-us/search/shop/apps?q=ayamadori)
 - Mobile Java Application  
 [http://java.oms.apps.bemobi.com/en_us/?vendor_id=127277](http://java.oms.apps.bemobi.com/en_us/?vendor_id=127277)
 
