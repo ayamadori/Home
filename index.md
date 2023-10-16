@@ -11,8 +11,6 @@ I may post about development of mobile application occasionally ;-)
 ## Software
 - Windows App  
 [https://apps.microsoft.com/store/search?publisher=ayamadori](https://apps.microsoft.com/store/search?publisher=ayamadori)
-- Mobile Java App  
-[http://java.oms.apps.bemobi.com/en_us/?vendor_id=127277](http://java.oms.apps.bemobi.com/en_us/?vendor_id=127277)
 
 ## History
 - 2018/06/17
